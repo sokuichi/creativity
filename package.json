@@ -1,0 +1,9 @@
+{
+  "name": "ruleforge-cognitive-task",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Ruleforge cognitive flexibility task.",
+  "scripts": {
+    "build": "node -e \"console.log('Static site: no build output needed')\""
+  }
+}
