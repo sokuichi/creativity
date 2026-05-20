@@ -1,0 +1,18 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/trainer",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/integrated-task",
+      "destination": "/integrated-physical-cognitive-task.html"
+    },
+    {
+      "source": "/dual-task",
+      "destination": "/integrated-physical-cognitive-task.html"
+    }
+  ]
+}
